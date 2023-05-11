@@ -6,8 +6,7 @@ It is a simple clone prepared with the basic logic of the Instagram.
 ## Used in the project
  
 - Firebase
-- Activity
-- RecyclerView
+- Cocoapods
  
 ## 📸 Screens
  
